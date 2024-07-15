@@ -1,5 +1,3 @@
 .DS_Store
 .ipynb_checkpoints
-live/**/*.parquet
-live/**/*.csv
-live/session-04/anim1a/*
+code/**/session-04/anim1a/*
